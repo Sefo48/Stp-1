@@ -1,9 +1,20 @@
-# A first-level heading
-## A second-level heading
-### A third-level heading
 
+
+
+
+# Первое 
+
+1. **Сделать первую лабораторную**
+   - > Подготовить теорию
+   - > Защитить лабораторную
+    
+2. **Сделать остальные лабораторные**
+
+## Второе
 
 Мой проект [Страница GitHub](https://github.com/Sefo48/Stp-1)
+
+### Третье
 
 ![Тортик](https://github.com/Sefo48/Stp-1/assets/109081387/5f387cf4-09b8-472f-926f-aeface7b2d81)
 
