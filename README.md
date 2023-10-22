@@ -3,4 +3,5 @@
 ### A third-level heading
 
 
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+Мой проект [Страница GitHub](https://github.com/Sefo48/Stp-1)
+
